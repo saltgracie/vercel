@@ -1,0 +1,70 @@
+{
+    "message": [
+        {
+            "_id": "636ac84ef7b1f67fd8662ab3",
+            "Name": "Test McTesterson",
+            "Email": "TT12345@gmail.com",
+            "PhoneNumber": "(912)595-2345",
+            "Role": "Patient",
+            "RoleId": 2,
+            "Latitude": 12.769013,
+            "Longitude": -85.602364,
+            "Image": "/profile-default.jpg",
+            "active": true,
+            "createdAt": "2022-11-08T21:21:17.397Z"
+        },
+        {
+            "_id": "636ac996f7b1f67fd8662ab4",
+            "Name": "Person Personson",
+            "Email": "PP1245@gmail.com",
+            "PhoneNumber": "(912)508-7777",
+            "Role": "Patient",
+            "RoleId": 2,
+            "Latitude": 12.769013,
+            "Longitude": -85.602364,
+            "Image": "/profile-default.jpg",
+            "active": true,
+            "createdAt": "2022-11-08T21:26:46.417Z"
+        },
+        {
+            "_id": "636ad041ce8909000807ee5d",
+            "Name": "Dustin Lynn",
+            "Email": "dlynn@saltsav.com",
+            "PhoneNumber": "912-200-2293",
+            "Role": "Patient",
+            "RoleId": 2,
+            "Latitude": 12.769013,
+            "Longitude": -85.602364,
+            "Image": "/profile-default.jpg",
+            "active": true,
+            "createdAt": "2022-11-08T21:55:13.837Z"
+        },
+        {
+            "_id": "636bb29ab04ba5000856288c",
+            "Name": "Testy Testerson",
+            "Email": "TTesterson@gmail.com",
+            "PhoneNumber": "(912)223-4432",
+            "Role": "Patient",
+            "RoleId": 2,
+            "Latitude": 12.769013,
+            "Longitude": -85.602364,
+            "Image": "/profile-default.jpg",
+            "active": true,
+            "createdAt": "2022-11-09T14:00:58.760Z"
+        },
+        {
+            "_id": "636bb32db04ba5000856288d",
+            "Name": "Jane Doe",
+            "Email": "JaneDoeTest@gmail.com",
+            "PhoneNumber": "(912)123-3245",
+            "Role": "Patient",
+            "RoleId": 2,
+            "Latitude": 12.769013,
+            "Longitude": -85.602364,
+            "Image": "/profile-default.jpg",
+            "active": true,
+            "createdAt": "2022-11-09T14:03:25.712Z"
+        }
+    ],
+    "success": true
+}
